@@ -1,0 +1,45 @@
+[window]
+# window padding {px}
+padding.x = 10
+padding.y = 10
+
+[font]
+size = 12.0
+
+[colors]
+[colors.primary]
+background = "#09080B"
+foreground = "#B3C9D4"
+dim_foreground = "#4A5760"
+
+[colors.cursor]
+text = "#B3C9D4"
+cursor = "#EFA319"
+
+[colors.vi_mode_cursor]
+text = "#B3C9D4"
+cursor = "#EFA319"
+
+[colors.selection]
+text = "CellForeground"
+background = "#1A1A1C"
+
+[colors.normal]
+black = "#1A1A1C"
+red = "#8000FF"
+green = "#EFA319"
+yellow = "#FF0000"
+blue = "#EFA319"
+magenta = "#8000FF"
+cyan = "#B3C9D4"
+white = "#B3C9D4"
+
+[colors.bright]
+black = "#4A5760"
+red = "#FF00FF"
+green = "#00FF00"
+yellow = "#FFFF00"
+blue = "#00FFFF"
+magenta = "#FF00FF"
+cyan = "#00FFFF"
+white = "#FFFFFF"
