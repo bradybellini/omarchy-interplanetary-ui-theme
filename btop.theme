@@ -25,7 +25,7 @@ theme[selected_bg]="#EFA319"
 theme[selected_fg]="#09080B"
 
 # Color of inactive/disabled text
-theme[inactive_fg]="#4A5760"
+theme[inactive_fg]="#556570"
 
 # Misc colors for processes box including mini cpu graphs, details memory graph and details status text
 theme[proc_misc]="#B3C9D4"
